@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">GameBox</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="friends">Friends</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="title_activity_friends">FriendsActivity</string>
+
+    <string name="create_username">Create Username</string>
+    <string name="username_in_use">Username is already in use.</string>
+    <string name="username_can_only_be">Username may not contain special characters.</string>
+    <string name="invite_friend">Invite A Friend</string>
+    <string name="username_or_email">Enter Username or Email</string>
+    <string name="invite_sent">Invite Sent</string>
+    <string name="username_does_not_exist">Username does not exist.</string>
+    <string name="lets_be_friends">Lets be friends.</string>
+    <string name="friend_self">You can not friend yourself.</string>
+    <string name="invite_sent_email">Invite Email Sent</string>
+
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+    <string name="title_activity_message">Messages</string>
+
+</resources>

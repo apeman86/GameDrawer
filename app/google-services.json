@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "987934187451",
+    "firebase_url": "https://game-box-fba18.firebaseio.com",
+    "project_id": "game-box-fba18",
+    "storage_bucket": "game-box-fba18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987934187451:android:a6421539cde037b9",
+        "android_client_info": {
+          "package_name": "com.nahgames.gamebox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987934187451-kc48usdklkhukol8msc0jhp7lus62ja1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nahgames.gamebox",
+            "certificate_hash": "7407f82f10da7ef76b80db4ee409457cdcd2d725"
+          }
+        },
+        {
+          "client_id": "987934187451-h96bbaasfrhd3ib3tuqdjqdkubqghavr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPuglZox1BCtR-NjSVCxzt8B6qZyKU4L4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987934187451-h96bbaasfrhd3ib3tuqdjqdkubqghavr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

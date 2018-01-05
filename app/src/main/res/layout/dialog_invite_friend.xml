@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/username_or_email"
+        android:textAppearance="?android:textAppearanceMedium"
+        android:layout_marginTop="@dimen/dialog_margin"
+        android:layout_marginLeft="@dimen/dialog_margin"
+        android:layout_marginRight="@dimen/dialog_margin"/>
+    <EditText
+        android:id="@+id/new_friend_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/dialog_margin"/>
+    <TextView
+        android:id="@+id/error"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/dialog_margin"
+        android:layout_marginRight="@dimen/dialog_margin"
+        android:layout_marginBottom="@dimen/dialog_margin"
+        android:text="@string/username_does_not_exist"
+        android:textColor="@color/red"
+        android:visibility="gone"/>
+    <TextView
+        android:id="@+id/error2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/dialog_margin"
+        android:layout_marginRight="@dimen/dialog_margin"
+        android:layout_marginBottom="@dimen/dialog_margin"
+        android:text="@string/friend_self"
+        android:textColor="@color/red"
+        android:visibility="gone"/>
+
+
+</LinearLayout>
